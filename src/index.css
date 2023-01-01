@@ -12,6 +12,7 @@ code {
     monospace;
 }
 
+/* This class is valid for whole app  */
 .App {
   text-align: center;
   display: flex;
@@ -19,6 +20,7 @@ code {
   margin-top: 50px;
 }
 
+/* This is the container of dropdown */
 .dropdown-container {
   border: 2px solid black;
   height: 250px;
@@ -29,6 +31,7 @@ code {
   text-align: center;
 }
 
+/*  below All code for drop down list */
 .select-value {
   height: 30px;
   width: 150px;
